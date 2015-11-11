@@ -7,6 +7,7 @@ public class TestHello {
 		System.out.println("방갑습니다.");
 		System.out.println("222222222");
 		System.out.println("gitHub");
+		System.out.println("gitHub222222");
 	}
 
 }
